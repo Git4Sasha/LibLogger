@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Release"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="logger.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="47" Y="6"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.0\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="726"/>
+        <CursorPos Y="746"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\modules\win\ShareMemForProcess.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="..\..\..\modules\linux\LocalTimeWork.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <UsageCount Value="10"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\..\modules\linux\ShareMemForProcess.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="38"/>
+        <CursorPos Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="..\..\..\LazModules\linux\ShareMemForProcess.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\packages\rtl-extra\src\unix\ipc.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\rtl\unix\syscall.pp"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\rtl\linux\x86_64\sysnr.inc"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="248"/>
+        <CursorPos X="31" Y="265"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="logger.lpr"/>
+      </Position1>
+      <Position2>
+        <Filename Value="logger.lpr"/>
+        <Caret Line="31"/>
+      </Position2>
+      <Position3>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\rtl\unix\syscall.pp"/>
+      </Position3>
+      <Position4>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\rtl\linux\x86_64\sysnr.inc"/>
+      </Position4>
+      <Position5>
+        <Filename Value="..\..\..\..\..\..\usr\share\fpcsrc\3.0.4\rtl\linux\x86_64\sysnr.inc"/>
+        <Caret Line="265" Column="5" TopLine="225"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
